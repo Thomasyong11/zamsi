@@ -1,0 +1,10 @@
+mongo
+zamsi
+zamsi1234
+
+
+toastContainer
+
+http proxy middleware npm
+
+**after creating proxy server, go to package.json, change the scripts "dev" from "next dev" to node server.js 
